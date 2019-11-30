@@ -1,0 +1,32 @@
+body {
+margin: 0;
+
+}
+main{
+display: block;
+}
+header, section, aside, footer {
+
+    border-style: dashed;
+    border-width: 1px ;
+}
+ul{
+    list-style: none;
+}
+li{
+    display: inline-block;
+}
+.contenido-principal{
+background-color: cyan;
+display: grid;
+grid-template-columns: 60% 40% ;
+
+}
+.item-lista
+{
+}
+.contendedor-estilo{
+
+    width: 300px;
+    margin: 0 auto;
+}
